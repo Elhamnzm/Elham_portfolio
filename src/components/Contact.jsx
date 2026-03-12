@@ -16,7 +16,7 @@ function Contact() {
         <p>
           LinkedIn:{" "}
           <a
-            href="https://www.linkedin.com/in/elhamnourizadeh"
+            href="http://linkedin.com/in/elhamnourizadeh"
             target="_blank"
             rel="noreferrer"
           >
