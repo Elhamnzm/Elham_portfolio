@@ -11,26 +11,26 @@ function Contact() {
       <div className="contact-details">
         <p>
           Email:{" "}
-          <a href="mailto:youremail@example.com">elham.nourizadeh@gmil.com</a>
+          <a href="mailto:730861@studet.inholland.nl">730861@studet.inholland.nl</a>
         </p>
         <p>
           LinkedIn:{" "}
           <a
-            href="https://www.linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/in/elhamnourizadeh"
             target="_blank"
             rel="noreferrer"
           >
-            linkedin.com/in/elham-nourizadeh
+            linkedin.com/in/elhamnourizadeh
           </a>
         </p>
         <p>
           GitHub:{" "}
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/Elhamnzm"
             target="_blank"
             rel="noreferrer"
           >
-            your-username
+            github.com/Elhamnzm
           </a>
         </p>
       </div>
